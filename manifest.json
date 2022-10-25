@@ -1,0 +1,15 @@
+{
+  "domain": "nutrislice",
+  "name": "nutrislice",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/nutrislice",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@beilber"
+  ],
+  "iot_class": "cloud_polling"
+}
